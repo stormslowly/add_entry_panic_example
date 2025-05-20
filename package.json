@@ -1,0 +1,19 @@
+{
+  "name": "rspack-add-entry-panic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rspack build",
+    "dev": "rspack dev"
+  },
+  "private": true,
+  "dependencies": {
+    "@rspack/core": "^1.3.10",
+    "rspack-plugin-virtual-module": "^1.0.0",
+    "webpack-virtual-modules": "^0.6.2"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^1.3.10"
+  }
+}
