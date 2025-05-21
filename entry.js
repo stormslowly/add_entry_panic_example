@@ -1,1 +1,1 @@
-console.log("disk entry");
+console.log("ALL GOOD ");
