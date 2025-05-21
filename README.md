@@ -1,3 +1,10 @@
+# Note
+
+Rspack not allow adding Entry in Making stage.
+here is a workaround https://github.com/stormslowly/add_entry_panic_example/tree/example/finishMake_hook
+
+
+
 # add entry panic example
 
 run `npm run build` several time, sometimes paniced.
